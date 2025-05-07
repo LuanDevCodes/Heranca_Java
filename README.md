@@ -4,8 +4,8 @@ Um sistema simples onde diferentes tipos de personagens (Guerreiro, Arqueiro, Ma
 
 🧩 Classes
 
-Personagem (Base)
-TestePersonagem 🔍 (Para testar tudo)
-Guerreiro ⚔️ (Golpe de Espada)
-Arqueiro 🏹 (Flecha Veloz)
-Mago 🔥 (Bola de Fogo)
+Personagem (Base) 
+TestePersonagem 🔍 (Para testar tudo) 
+Guerreiro ⚔️ (Golpe de Espada) 
+Arqueiro 🏹 (Flecha Veloz) 
+Mago 🔥 (Bola de Fogo) 
